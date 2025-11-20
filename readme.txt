@@ -1,3 +1,3 @@
 Git is a version control system.
-Fit is free softsare.
-
+Git is free softsare.
+Creating a new branch is quick.
